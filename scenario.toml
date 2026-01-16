@@ -14,3 +14,4 @@ env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 # Assessment configuration
 # max_examples: Number of FOLIO problems to evaluate (1-203)
 max_examples = 10
+
