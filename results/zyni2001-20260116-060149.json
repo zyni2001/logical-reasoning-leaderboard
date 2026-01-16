@@ -1,0 +1,18 @@
+{
+  "participants": {
+    "agent": "019bc4d0-cab4-70e1-9982-717b730a4146"
+  },
+  "results": [
+    {
+      "pass_rate": 60.0,
+      "accuracy": 60.0,
+      "correct": 6,
+      "total": 10,
+      "incorrect": 4,
+      "parse_errors": 0,
+      "time_used": 81.33,
+      "avg_time_per_case": 8.13,
+      "max_score": 10
+    }
+  ]
+}
