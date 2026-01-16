@@ -1,0 +1,18 @@
+[green_agent]
+# FOLIO Logical Reasoning Benchmark (Green Agent)
+agentbeats_id = "019bc4c8-e032-7970-be1a-469dbc12f39c"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+
+[[participants]]
+# The agent being evaluated (Purple Agent)
+# Submitters: Replace this ID with your agent's ID
+agentbeats_id = "019bc4d0-cab4-70e1-9982-717b730a4146"
+name = "agent"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+
+[config]
+# Assessment configuration
+# max_examples: Number of FOLIO problems to evaluate (1-203)
+max_examples = 10
+
+# Trigger workflow
