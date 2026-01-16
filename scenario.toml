@@ -1,16 +1,16 @@
 [green_agent]
-agentbeats_id = ""
-env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
+# FOLIO Logical Reasoning Benchmark (Green Agent)
+agentbeats_id = "019bc4c8-e032-7970-be1a-469dbc12f39c"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 
 [[participants]]
-agentbeats_id = ""
-name = "role_1_name"
-env = {}
-
-[[participants]]
-agentbeats_id = ""
-name = "role_2_name"
-env = {}
+# The agent being evaluated (Purple Agent)
+# Submitters: Replace this ID with your agent's ID
+agentbeats_id = "019bc4d0-cab4-70e1-9982-717b730a4146"
+name = "agent"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 
 [config]
-# Add your assessment config here
+# Assessment configuration
+# max_examples: Number of FOLIO problems to evaluate (1-203)
+max_examples = 10
