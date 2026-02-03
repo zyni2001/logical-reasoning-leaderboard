@@ -1,0 +1,18 @@
+{
+  "image_digests": {
+    "green-agent": "gcr.io/cs294-agentbeats/folio-green-agent@sha256:8ae86665e556da4a262f69cdf2de03c47d6310e3e41454c9c27a220e60351fe4",
+    "baseline-agent": "gcr.io/cs294-agentbeats/folio-baseline-agent@sha256:163d7f16fb067ed9c5fc728183890dc6675cfeb27d6d78cd9c12362e9ea145d3",
+    "autoform-agent": "gcr.io/cs294-agentbeats/folio-autoform-agent@sha256:7c822909120bfe7c14b17793d3882ce561cf19880ab819d4af0b5ba0e3a37516",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-02-03T22:45:37Z",
+  "github_actions": {
+    "run_url": "https://github.com/zyni2001/logical-reasoning-leaderboard/actions/runs/21650647289",
+    "run_logs_url": "https://api.github.com/repos/zyni2001/logical-reasoning-leaderboard/actions/runs/21650647289/logs",
+    "ref": "refs/heads/run-assessment",
+    "sha": "d8b3a95345c577a12f7f511a618afe86e8e40a2f",
+    "repository_url": "https://github.com/zyni2001/logical-reasoning-leaderboard",
+    "workflow_ref": "zyni2001/logical-reasoning-leaderboard/.github/workflows/run-scenario.yml@refs/heads/run-assessment",
+    "workflow_sha": "d8b3a95345c577a12f7f511a618afe86e8e40a2f"
+  }
+}
