@@ -1,0 +1,19 @@
+{
+  "participants": {
+    "baseline-agent": "019bc4d0-cab4-70e1-9982-717b730a4146",
+    "autoform-agent": "019c2590-ef8b-74c3-83c2-d5dda8103c4f"
+  },
+  "results": [
+    {
+      "pass_rate": 70.0,
+      "accuracy": 70.0,
+      "correct": 7,
+      "total": 10,
+      "incorrect": 3,
+      "parse_errors": 0,
+      "time_used": 70.92,
+      "avg_time_per_case": 7.09,
+      "max_score": 10
+    }
+  ]
+}
