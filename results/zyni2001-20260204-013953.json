@@ -1,0 +1,72 @@
+{
+  "participants": {
+    "baseline-agent": "019bc4d0-cab4-70e1-9982-717b730a4146",
+    "autoform-agent": "019c2590-ef8b-74c3-83c2-d5dda8103c4f"
+  },
+  "results": [
+    {
+      "baseline-agent": {
+        "id": "baseline-agent",
+        "score": 60.0,
+        "accuracy": 60.0,
+        "agent": "baseline-agent",
+        "agent_id": "baseline-agent",
+        "pass_rate": 60.0,
+        "correct": 6,
+        "total": 10,
+        "incorrect": 4,
+        "parse_errors": 0,
+        "time_used": 72.55,
+        "avg_time_per_case": 7.25,
+        "max_score": 10
+      },
+      "autoform-agent": {
+        "id": "autoform-agent",
+        "score": 90.0,
+        "accuracy": 90.0,
+        "agent": "autoform-agent",
+        "agent_id": "autoform-agent",
+        "pass_rate": 90.0,
+        "correct": 9,
+        "total": 10,
+        "incorrect": 1,
+        "parse_errors": 0,
+        "time_used": 174.36,
+        "avg_time_per_case": 17.44,
+        "max_score": 10
+      },
+      "_entries": [
+        {
+          "id": "baseline-agent",
+          "score": 60.0,
+          "accuracy": 60.0,
+          "agent": "baseline-agent",
+          "agent_id": "baseline-agent",
+          "pass_rate": 60.0,
+          "correct": 6,
+          "total": 10,
+          "incorrect": 4,
+          "parse_errors": 0,
+          "time_used": 72.55,
+          "avg_time_per_case": 7.25,
+          "max_score": 10
+        },
+        {
+          "id": "autoform-agent",
+          "score": 90.0,
+          "accuracy": 90.0,
+          "agent": "autoform-agent",
+          "agent_id": "autoform-agent",
+          "pass_rate": 90.0,
+          "correct": 9,
+          "total": 10,
+          "incorrect": 1,
+          "parse_errors": 0,
+          "time_used": 174.36,
+          "avg_time_per_case": 17.44,
+          "max_score": 10
+        }
+      ]
+    }
+  ]
+}
