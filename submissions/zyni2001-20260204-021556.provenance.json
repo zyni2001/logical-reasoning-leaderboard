@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "gcr.io/cs294-agentbeats/folio-green-agent@sha256:6cba080921a4d66605c7a9d990c17b1b5884fa28c0a1d754a4fddd1cca8539a8",
+    "baseline-agent": "gcr.io/cs294-agentbeats/folio-baseline-agent@sha256:163d7f16fb067ed9c5fc728183890dc6675cfeb27d6d78cd9c12362e9ea145d3",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-02-04T02:15:56Z",
+  "github_actions": {
+    "run_url": "https://github.com/zyni2001/logical-reasoning-leaderboard/actions/runs/21655722934",
+    "run_logs_url": "https://api.github.com/repos/zyni2001/logical-reasoning-leaderboard/actions/runs/21655722934/logs",
+    "ref": "refs/heads/run-assessment",
+    "sha": "8d7103903c4d365d76f7621cf26ca3eca4263ad9",
+    "repository_url": "https://github.com/zyni2001/logical-reasoning-leaderboard",
+    "workflow_ref": "zyni2001/logical-reasoning-leaderboard/.github/workflows/run-scenario.yml@refs/heads/run-assessment",
+    "workflow_sha": "8d7103903c4d365d76f7621cf26ca3eca4263ad9"
+  }
+}
