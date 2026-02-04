@@ -22,9 +22,4 @@ env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 max_examples = 10
 
 # Trigger workflow
-# Run with fixed green agent - Tue Feb  3 22:29:06 UTC 2026
-# Fixed DataPart dict requirement - Tue Feb  3 22:40:37 UTC 2026
-# Trigger 1770161438
-# Trigger 1770168898
-# Simple query test 1770171237
-# Fresh run with updated green agent 1770182530
+# Clean slate run - Wed Feb  4 22:30:00 UTC 2026
