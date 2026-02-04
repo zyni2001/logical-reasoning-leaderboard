@@ -4,42 +4,19 @@
   },
   "results": [
     {
-      "baseline-agent": {
-        "id": "baseline-agent",
-        "score": 50.0,
-        "accuracy": 50.0,
-        "agent": "baseline-agent",
-        "agent_id": "baseline-agent",
-        "pass_rate": 50.0,
-        "correct": 5,
-        "total": 10,
-        "incorrect": 5,
-        "parse_errors": 0,
-        "time_used": 64.51,
-        "avg_time_per_case": 6.45,
-        "max_score": 10
-      },
-      "_entries": [
-        {
-          "id": "baseline-agent",
-          "score": 50.0,
-          "accuracy": 50.0,
-          "agent": "baseline-agent",
-          "agent_id": "baseline-agent",
-          "pass_rate": 50.0,
-          "correct": 5,
-          "total": 10,
-          "incorrect": 5,
-          "parse_errors": 0,
-          "time_used": 64.51,
-          "avg_time_per_case": 6.45,
-          "max_score": 10
-        }
-      ],
       "id": "baseline-agent",
-      "score": 0,
+      "score": 50.0,
+      "accuracy": 50.0,
       "agent": "baseline-agent",
-      "agent_id": "baseline-agent"
+      "agent_id": "baseline-agent",
+      "pass_rate": 50.0,
+      "correct": 5,
+      "total": 10,
+      "incorrect": 5,
+      "parse_errors": 0,
+      "time_used": 64.51,
+      "avg_time_per_case": 6.45,
+      "max_score": 10
     }
   ]
 }
