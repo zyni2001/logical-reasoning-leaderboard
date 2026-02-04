@@ -5,34 +5,30 @@
   },
   "results": [
     {
-      "results": [
-        {
-          "agent": "baseline-agent",
-          "agent_id": "baseline-agent",
-          "pass_rate": 60.0,
-          "accuracy": 60.0,
-          "correct": 6,
-          "total": 10,
-          "incorrect": 4,
-          "parse_errors": 0,
-          "time_used": 63.81,
-          "avg_time_per_case": 6.38,
-          "max_score": 10
-        },
-        {
-          "agent": "autoform-agent",
-          "agent_id": "autoform-agent",
-          "pass_rate": 90.0,
-          "accuracy": 90.0,
-          "correct": 9,
-          "total": 10,
-          "incorrect": 1,
-          "parse_errors": 0,
-          "time_used": 184.89,
-          "avg_time_per_case": 18.49,
-          "max_score": 10
-        }
-      ]
+      "agent": "baseline-agent",
+      "agent_id": "baseline-agent",
+      "pass_rate": 60.0,
+      "accuracy": 60.0,
+      "correct": 6,
+      "total": 10,
+      "incorrect": 4,
+      "parse_errors": 0,
+      "time_used": 63.81,
+      "avg_time_per_case": 6.38,
+      "max_score": 10
+    },
+    {
+      "agent": "autoform-agent",
+      "agent_id": "autoform-agent",
+      "pass_rate": 90.0,
+      "accuracy": 90.0,
+      "correct": 9,
+      "total": 10,
+      "incorrect": 1,
+      "parse_errors": 0,
+      "time_used": 184.89,
+      "avg_time_per_case": 18.49,
+      "max_score": 10
     }
   ]
 }
