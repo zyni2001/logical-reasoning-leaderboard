@@ -1,0 +1,25 @@
+[green_agent]
+# FOLIO Logical Reasoning Benchmark (Green Agent) - v2
+agentbeats_id = "019c273f-03b2-7f71-a862-60c179b8d393"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+
+[[participants]]
+# Baseline Agent (CoT direct reasoning)
+agentbeats_id = "019bc4d0-cab4-70e1-9982-717b730a4146"
+name = "baseline-agent"
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+
+# Temporarily disabled - running baseline first
+# [[participants]]
+# # Autoformalization Agent (LLM -> Z3 Code -> Execute)
+# agentbeats_id = "019c2590-ef8b-74c3-83c2-d5dda8103c4f"
+# name = "autoform-agent"
+# env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
+
+[config]
+# Assessment configuration
+# max_examples: Number of FOLIO problems to evaluate (1-203)
+max_examples = 10
+
+# Trigger workflow
+# New agent v2 - Tue Feb  4 06:00:00 UTC 2026
