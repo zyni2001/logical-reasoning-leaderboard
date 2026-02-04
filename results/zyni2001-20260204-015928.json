@@ -35,7 +35,11 @@
           "avg_time_per_case": 6.45,
           "max_score": 10
         }
-      ]
+      ],
+      "id": "baseline-agent",
+      "score": 0,
+      "agent": "baseline-agent",
+      "agent_id": "baseline-agent"
     }
   ]
 }

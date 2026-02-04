@@ -13,7 +13,11 @@
       "parse_errors": 0,
       "time_used": 70.92,
       "avg_time_per_case": 7.09,
-      "max_score": 10
+      "max_score": 10,
+      "id": "baseline-agent",
+      "score": 70.0,
+      "agent": "baseline-agent",
+      "agent_id": "baseline-agent"
     }
   ]
 }

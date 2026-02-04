@@ -12,7 +12,11 @@
       "parse_errors": 0,
       "time_used": 74.49,
       "avg_time_per_case": 7.45,
-      "max_score": 10
+      "max_score": 10,
+      "id": "agent",
+      "score": 60.0,
+      "agent": "agent",
+      "agent_id": "agent"
     }
   ]
 }

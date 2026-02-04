@@ -15,7 +15,9 @@
       "parse_errors": 0,
       "time_used": 63.81,
       "avg_time_per_case": 6.38,
-      "max_score": 10
+      "max_score": 10,
+      "id": "baseline-agent",
+      "score": 60.0
     },
     {
       "agent": "autoform-agent",
@@ -28,7 +30,9 @@
       "parse_errors": 0,
       "time_used": 184.89,
       "avg_time_per_case": 18.49,
-      "max_score": 10
+      "max_score": 10,
+      "id": "autoform-agent",
+      "score": 90.0
     }
   ]
 }
