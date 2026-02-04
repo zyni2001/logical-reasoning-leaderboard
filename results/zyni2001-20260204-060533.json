@@ -1,0 +1,22 @@
+{
+  "participants": {
+    "baseline-agent": "019bc4d0-cab4-70e1-9982-717b730a4146"
+  },
+  "results": [
+    {
+      "id": "baseline-agent",
+      "score": 60.0,
+      "accuracy": 60.0,
+      "agent": "baseline-agent",
+      "agent_id": "baseline-agent",
+      "pass_rate": 60.0,
+      "correct": 6,
+      "total": 10,
+      "incorrect": 4,
+      "parse_errors": 0,
+      "time_used": 77.6,
+      "avg_time_per_case": 7.76,
+      "max_score": 10
+    }
+  ]
+}
