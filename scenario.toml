@@ -20,5 +20,5 @@ env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 # max_examples: Number of FOLIO problems to evaluate (1-203)
 max_examples = 203
 
-# Trigger workflow - CoT baseline only, full 203 samples
-# Run: 2026-02-06T00:01:00Z
+# Trigger workflow - rebuilt green+baseline images with ENTRYPOINT fix
+# Run: 2026-02-06T02:03:00Z
