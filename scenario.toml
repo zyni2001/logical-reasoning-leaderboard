@@ -20,5 +20,5 @@ env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 # max_examples: Number of FOLIO problems to evaluate (1-203)
 max_examples = 203
 
-# Trigger workflow - rebuilt green+baseline images with ENTRYPOINT fix
-# Run: 2026-02-06T02:21:00Z
+# Trigger workflow - parallel evaluation (10 concurrent) to beat 5-min timeout
+# Run: 2026-02-06T02:43:00Z
